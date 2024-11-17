@@ -110,7 +110,7 @@ print(f"There are {train_dataset.cardinality()} sentence-label pairs for trainin
 print(f"There are {validation_dataset.cardinality()} sentence-label pairs for validation.\n")
      
 ```
-![image](https://github.com/user-attachments/assets/baa940b1-f1d0-4e9d-a8bd-d10879b3c7cc)
+![image](https://github.com/user-attachments/assets/ed40abcc-df3c-4606-9bf5-5177a1f536bd)
 
 
 
