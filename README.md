@@ -195,10 +195,10 @@ train_labels_only = train_dataset.map(lambda text, label: label)
 validation_labels_only = validation_dataset.map(lambda text, label: label)
 
 label_encoder = fit_label_encoder(train_labels_only,validation_labels_only)
-print('Name:A.ARUVI   Register Number: 212222230014    ')
+print('Name: Syed Muhammed Zahi    Register Number: 212221230114 ')
 print(f'Unique labels: {label_encoder.get_vocabulary()}')
 ```
-![image](https://github.com/user-attachments/assets/4358e67d-4e9b-48d6-a185-059e3e4d1556) 
+![image](https://github.com/user-attachments/assets/31bdc858-715d-4f18-ac1d-3d0e0c134f26)
 
 
 
