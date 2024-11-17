@@ -287,8 +287,8 @@ print('Name: A.ARUVI  Register Number: 212222230014 ')
 plot_graphs(history, "accuracy")
 plot_graphs(history, "loss")
 ```
-### Name: A.ARUVI
-### Register Number: 212222230014
+### Name: Syed Muhammed Zahi
+### Register Number: 212221230114
 
 ## OUTPUT:
 ### Loss, Accuracy Vs Iteration Plot
